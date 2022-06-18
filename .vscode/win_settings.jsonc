@@ -24,7 +24,6 @@
 
 	// Other
 	"security.workspace.trust.untrustedFiles": "open",
-	"sourcery.token": "user_68vCRP_8t4o9SVV4fCnZN8KazIFmC0t96ZyPeCGbEd0WKYO3FTOnddgq_9k",
 	"terminal.integrated.defaultProfile.windows": "Command Prompt",
 	"terminal.integrated.fontSize": 15,
 	"workbench.colorTheme": "Visual Studio Dark",
