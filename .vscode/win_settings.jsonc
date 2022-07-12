@@ -3,10 +3,8 @@
 {
 	// Editor
 	"editor.accessibilitySupport": "off",
-	"editor.bracketPairColorization.enabled": false,
 	"editor.cursorBlinking": "phase",
 	"editor.cursorSmoothCaretAnimation": true,
-	"editor.cursorStyle": "line-thin",
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.fontFamily": "Fira Code",
 	"editor.fontLigatures": true,
@@ -25,8 +23,7 @@
 	// Other
 	"security.workspace.trust.untrustedFiles": "open",
 	"terminal.integrated.defaultProfile.windows": "Command Prompt",
-	"terminal.integrated.fontSize": 15,
-	"workbench.colorTheme": "Visual Studio Dark",
+	"terminal.integrated.fontSize": 16,
 	"workbench.iconTheme": "vscode-seedling-icon-theme",
 
 	// Language-specific
@@ -53,5 +50,8 @@
 				}
 			}
 		]
-	}
+	},
+	"editor.bracketPairColorization.enabled": false,
+	"terminal.integrated.lineHeight": 0
 }
+
