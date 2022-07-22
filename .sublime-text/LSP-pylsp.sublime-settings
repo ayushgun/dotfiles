@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "pylsp.plugins.pylsp_black.enabled": true,
+        "pylsp.plugins.pycodestyle.aggressive": false,
+        "pylsp.configurationSources": ["flake8"],
+        "pylsp.plugins.flake8.enabled": true,
+        "pylsp.plugins.pycodestyle.enabled": false,
+        "pylsp.plugins.flake8.ignore": ["E501", "W503", "W292"], // Error W292 is automatically handled by sublack/black
+        "pylsp.plugins.pylsp_mypy.live_mode": true,
+        "pylsp.plugins.pylsp_mypy.strict": true,
+    }
+}
